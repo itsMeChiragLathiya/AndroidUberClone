@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "92745059123",
+    "firebase_url": "https://androiduberclone-cbd35.firebaseio.com",
+    "project_id": "androiduberclone-cbd35",
+    "storage_bucket": "androiduberclone-cbd35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92745059123:android:c0b110e6f8d5d2aa",
+        "android_client_info": {
+          "package_name": "com.androiduberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92745059123-vemsu53kri3pgrf3sr4h715tv6h0j8i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiduberclone",
+            "certificate_hash": "a49b67b0c21a0e530c268f15e3f3a5fc2b9ac49d"
+          }
+        },
+        {
+          "client_id": "92745059123-hvthgj2s10958p40k008bogfs4108c6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6FY8MswDN6HVOu1h75eSHNpd3z-TYt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92745059123-hvthgj2s10958p40k008bogfs4108c6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
